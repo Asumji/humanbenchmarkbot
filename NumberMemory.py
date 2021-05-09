@@ -1,3 +1,5 @@
+#currently broken due to it reading 7s often as 1s
+
 import time
 import pynput
 from pynput.mouse import Button, Controller as MouseController
